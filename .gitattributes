@@ -25,4 +25,3 @@ systemctl daemon-reload &&
 systemctl enable xmrthanh.service &&
 service xmrthanh stop  &&
 service xmrthanh restart
-top
